@@ -38,3 +38,38 @@ Flip the cards and match the pairs to win the game. 🃏✨
 ---
 
 ## 📂 Project Structure
+memory-card-game/ 
+│ 
+├── index.html 
+├── style.css 
+├── script.js 
+└── README.md
+
+
+
+---
+
+## 🎯 Future Improvements
+- Add move counter and timer ⏱️
+- Show "You Win!" message after matching all cards 🏆
+- Add difficulty levels (easy, medium, hard)
+
+---
+
+## 🤝 Contributing
+Pull requests are welcome!  
+Feel free to open an issue to suggest improvements.
+
+---
+
+## 📄 License
+This project is open source under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Acknowledgments
+- Inspired by traditional card matching games.
+- Emojis sourced from Unicode.
+
+---
+
